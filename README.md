@@ -19,7 +19,7 @@ Design: --
 
 ## 🎯 Project features/goals
 
--   Get familiar fith React.js
+-   Get familiar with React.js
 
 ## 🧰 Getting Started
 
